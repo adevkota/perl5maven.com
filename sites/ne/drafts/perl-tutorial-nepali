@@ -11,8 +11,7 @@
 =social 1
 
  Perl Maven tutorial बाट तपाईंलाई Perl programming language को आधारभूत शिक्षा दिइने छ।
-You'll be able to write simple scripts, analyze log files and read and write CSV files.
-Just to name a few common tasks.
+तपाईंले साधारण Perl scripts लेख्न, Perl प्रयोग् गरी log files को विस्लेषन गर्न  र Perl बाट CSV फाइलस् पढ्न र लेख्ने जस्त कार्य गर्न सक्नु हुनेछ।
 
 You'll learn how to use the CPAN and several specific CPAN modules.
 
